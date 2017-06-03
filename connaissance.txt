@@ -1,0 +1,15 @@
+R1: fleur ET graine -> phonérograme ET NON cryptonome
+R2: phonérograme ET graine-nue -> sapin 
+R3: phonérograme ET 1-cotylédone -> monocotylédone 
+R4: phanérogame ET 2-cotylédone -> dicotylédone
+R5: monocotylédone ET rhizone -> muguet 
+R6: dicotylédone -> anémone 
+R7: monocotiledone ET NON rhizome -> lilas 
+R8: feuille ET NON fleur -> cryptograme 
+R9: cryptogame  ET NON racine -> mousse 
+R10: cryptogramme ET racine -> fougère 
+R11: NON feuille ET plante -> thallophyte 
+R12: thallophyte ET chlorophylle -> ague
+R13: thallophyte ET NON chlorophylle -> champignon 
+R14: NON feuille ET NON fleur ET NON plante -> colibacille 
+
